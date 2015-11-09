@@ -5,7 +5,7 @@ _**Note:** This Binding is available in TODO and later releases._
 * [Introduction](#introduction)
 * [Binding Configuration](#binding-configuration)
 * [Item configuration](#item-configuration)
-* [Binding Examples](#binding-examples)
+* [Sitemap Example](#sitemap-example)
 * [Logging](#logging)
 * [Known Issues](#known-issues)
 * [Change Log](#change-log)
