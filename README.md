@@ -19,8 +19,6 @@ For each group you can enable or disable sound (toggle mute) or set the volume.
 
 ## Binding Configuration
 
-TODO
-
 Edit the file `openhab.cfg` located in `${openhab_home}/configurations/`:
 
     ############################## Sonance binding ########################################
